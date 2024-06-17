@@ -1,3 +1,2 @@
 # DhruviChatbot
-DDU Assistant(ChatBOT)
-A ChatBOT who greets you and helps you to fetch ur required information intelligently.Chatbots make it possible to automate conversations that used to involve specialists. It Save money and time.Provide support 24/7.we had use technologies such as google colab,numpy,NLP(Natural language processing),Machine learning.
+DDU Assistant is an intelligent chatbot designed to greet users and assist them in fetching the required information efficiently. By leveraging advanced technologies, DDU Assistant can automate conversations that traditionally required human specialists, thereby saving both time and money. The chatbot provides 24/7 support, ensuring users have access to assistance whenever they need it.
